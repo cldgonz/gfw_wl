@@ -1,5 +1,5 @@
 # here we go (20181101)
-# last update (20190903)
+# last update (20200303)
 # not recommended for shadowsocks
 # from several PACs
 
@@ -310,8 +310,6 @@
 *ci123.com
 *clewm.net
 *cli.im
-*clouddn.com
-*cloudflare.com
 *cloudinary.com
 *cloudxns.net
 *cmbchina.com
@@ -1144,7 +1142,6 @@
 *umiwi.com
 *undraw.co
 *uniontoufang.com
-*unsplash.com
 *up2c.com
 *upaiyun.com
 *upyun.com
@@ -1641,8 +1638,6 @@ ssl.gstatic.com
 *ci123.com:443
 *clewm.net:443
 *cli.im:443
-*clouddn.com:443
-*cloudflare.com:443
 *cloudinary.com:443
 *cloudxns.net:443
 *cmbchina.com:443
@@ -2475,7 +2470,6 @@ ssl.gstatic.com
 *umiwi.com:443
 *undraw.co:443
 *uniontoufang.com:443
-*unsplash.com:443
 *up2c.com:443
 *upaiyun.com:443
 *upyun.com:443
